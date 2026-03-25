@@ -16,8 +16,8 @@ const interTight = Inter_Tight({
 });
 
 export const metadata: Metadata = {
-  title: "Prva Izbira",
-  description: "We help you stay future-ready with expert leadership advisory services.",
+  title: "Sacherer & Partner",
+  description: "Präzise Personalvermittlung für gewerbliche Fachkräfte und Führungspositionen.",
   icons: {
     icon: "/favicon.png",
     shortcut: "/favicon.png",
