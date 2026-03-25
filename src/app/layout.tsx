@@ -23,6 +23,21 @@ export const metadata: Metadata = {
     shortcut: "/favicon.png",
     apple: "/favicon.png",
   },
+  openGraph: {
+    title: "Sacherer & Partner",
+    description: "Präzise Personalvermittlung für gewerbliche Fachkräfte und Führungspositionen.",
+    url: "https://sacherer-defence.de",
+    siteName: "Sacherer & Partner",
+    images: [
+      {
+        url: "https://sacherer-defence.de/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Sacherer & Partner",
+      },
+    ],
+    type: "website",
+  },
 };
 
 export default function RootLayout({
